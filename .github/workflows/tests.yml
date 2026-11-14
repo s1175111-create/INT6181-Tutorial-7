@@ -25,4 +25,4 @@ jobs:
     - name: Run tests
       # 运行 tutorial_7 目录下的所有 test_*.py 文件
       run: |
-        pytest tutorial_7/
+        pytest 
